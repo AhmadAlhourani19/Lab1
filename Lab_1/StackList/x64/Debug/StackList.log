@@ -1,0 +1,8 @@
+﻿  StackList.c
+  StackListLib.c
+C:\Users\ahmad\source\repos\Lab_1\StackList\StackListLib.c(37,12): warning C4473: "printf": nicht genügend Argumente für Formatzeichenfolge übergeben
+C:\Users\ahmad\source\repos\Lab_1\StackList\StackListLib.c(37,12): message : Platzhalter und deren Parameter erwarten 1 variadic-Argumente, es wurden aber 0 variadic-Argumente bereitgestellt.
+C:\Users\ahmad\source\repos\Lab_1\StackList\StackListLib.c(37,12): message : Das fehlende variadic-Argument "1" ist für die Zeichenfolge "%s" erforderlich.
+  Code wird generiert...
+StackList.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "printStack" in Funktion "main".
+C:\Users\ahmad\source\repos\Lab_1\x64\Debug\StackList.exe : fatal error LNK1120: 1 nicht aufgelöste Externe

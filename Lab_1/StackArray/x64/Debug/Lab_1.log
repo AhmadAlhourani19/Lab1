@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Das Zwischenverzeichnis (x64\Debug\) enthält freigegebene Dateien aus einem anderen Projekt (Lab_1.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  StackArray.c
+  StackArrayLib.c
+  Code wird generiert...
+  Lab_1.vcxproj -> C:\Users\ahmad\source\repos\Lab_1\x64\Debug\StackArray.exe
